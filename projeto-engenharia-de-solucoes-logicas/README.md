@@ -30,4 +30,4 @@ O fluxo segue a seguinte ordem de captura de dados:
 Durante a concepção, o maior desafio foi a tradução das nuances do atendimento médico para uma estrutura lógica binária. Para futuras versões, planeja-se a implementação de *failsafes* para aumentar a resiliência contra falhas humanas ou de sensores, permitindo múltiplas verificações antes do diagnóstico final.
 
 ---
-[Voltar ao perfil](https://github.com/seu-usuario)
+[Voltar ao perfil](https://github.com/WillV-Code)
