@@ -64,6 +64,11 @@ Atualmente cursando o 1º semestre de Ciência da Computação na Universidade C
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Traduzindo Lógica para Python** | Tradução de Pseudocódigo para Python | [Ver projeto](./projeto-pseudo-python/pseudopython.py) [Q&A](./projeto-pseudo-python/pseudopython.txt) |
+
+#### 🗃️ Programação de Computadores
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Engenharia de Contexto e Lógica Física** | Aplicar os conceitos de Listas, Estruturas de Repetição (for, while), Estruturas de Decisão (if/else, match-case), Funções e Operadores Complexos na resolução de problemas do mundo real, exigindo coleta de dados manual e mapeamento espacial. | [Ver projeto](./) |
  
 ---
  
