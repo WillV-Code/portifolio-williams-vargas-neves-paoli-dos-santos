@@ -73,7 +73,7 @@ Atualmente cursando o 1º semestre de Ciência da Computação na Universidade C
 #### 🗃️ Programação de Computadores
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Desenhando Emojis com Dados** | Manipular listas, tuplas e dicionários usando loops aninhados para criar e modificar a "arte" de um emoji. | [Ver Projeto](./projeto-desenhando-emojis-com-dados/) |
+| **Desenhando Emojis com Dados** | Manipular listas, tuplas e dicionários usando loops aninhados para criar e modificar a "arte" de um emoji. | [Ver Projeto](./projeto-desenhando-emojis-com-dados/desenhando_emojis_com_dados-1.py) |
  
 ---
  
