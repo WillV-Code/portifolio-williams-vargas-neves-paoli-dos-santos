@@ -68,7 +68,7 @@ Atualmente cursando o 1º semestre de Ciência da Computação na Universidade C
 #### 🗃️ Programação de Computadores
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Engenharia de Contexto e Lógica Física** | Aplicar os conceitos de Listas, Estruturas de Repetição (for, while), Estruturas de Decisão (if/else, match-case), Funções e Operadores Complexos na resolução de problemas do mundo real, exigindo coleta de dados manual e mapeamento espacial. | [Ver projeto](./) |
+| **Engenharia de Contexto e Lógica Física** | Aplicar os conceitos de Listas, Estruturas de Repetição (for, while), Estruturas de Decisão (if/else, match-case), Funções e Operadores Complexos na resolução de problemas do mundo real, exigindo coleta de dados manual e mapeamento espacial. | [Clima](./projeto-eng-de-contexto-e-logica-fisica/engenharia-de-contexto-e-logica-fisica-1.py) [Navegação](./projeto-eng-de-contexto-e-logica-fisica/engenharia-de-contexto-e-logica-fisica-2.py) [Q&A](./projeto-eng-de-contexto-e-logica-fisica/engenharia-de-contexto-e-logica-fisica.txt) |
  
 ---
  
