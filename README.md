@@ -74,11 +74,3 @@ Atualmente cursando o 1º semestre de Ciência da Computação na Universidade C
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Desenhando Emojis com Dados** | Manipular listas, tuplas e dicionários usando loops aninhados para criar e modificar a "arte" de um emoji. | [Emoji](./projeto-desenhando-emojis-com-dados/desenhando_emojis_com_dados-1.py) [Biblioteca Músical](./projeto-desenhando-emojis-com-dados/desenhando_emojis_com_dados-2.py) [Receita](./projeto-desenhando-emojis-com-dados/desenhando_emojis_com_dados-3.py) |
- 
----
- 
-### 🏗 Estrutura do Repositório
-Abaixo, a organização deste repositório para facilitar a navegação:
- 
-- `root/`: Arquivo de apresentação principal.
-- `/projeto-nome/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
