@@ -53,7 +53,7 @@ Atualmente cursando o 1º semestre de Ciência da Computação na Universidade C
 #### 🗃️ Programação de Computadores
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Engenharia de Soluções Lógicas** | Um programa que analisa a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](./projeto-alogirtmo-de-auditoria-de-dados/auditoria-de-dados.py) |
+| **Engenharia de Soluções Lógicas** | Uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica. | [Ver Projeto](./projeto-alogirtmo-de-auditoria-de-dados/auditoria-de-dados.py) |
  
  
 ---
