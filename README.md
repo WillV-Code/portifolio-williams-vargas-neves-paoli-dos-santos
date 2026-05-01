@@ -59,7 +59,11 @@ Atualmente cursando o 1º semestre de Ciência da Computação na Universidade C
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Modularização** | Um algoritmo que lê um valor de compra e o valor pago, calcula o troco total, e determina o menor número possível de notas (100, 50, 10, 5 e 1) para devolver ao cliente. | [Módulos](./projeto-modularizacao/modulos.jpg) [Funções](./projeto-modularizacao/funcoes.jpg) [Funções Parte 2](./projeto-modularizacao/funcoes-2.jpg) [Fluxograma](./projeto-modularizacao/sistema-fluxo.jpg) [Pseudocódigo](./projeto-modularizacao/sistema-pseudo.jpg) |
- 
+
+#### 🗃️ Programação de Computadores
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Traduzindo Lógica para Python** | Tradução de Pseudocódigo para Python | [Ver Projeto](./projeto-algoritmo-de-auditoria-de-dados/auditoria-de-dados.py) |
  
 ---
  
