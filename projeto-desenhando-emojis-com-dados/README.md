@@ -38,4 +38,4 @@ Para processar os emojis e receitas, o código segue esta estrutura de profundid
 O maior desafio neste tema é a **Gestão da Imutabilidade**. Como tuplas são imutáveis em Python, o algoritmo precisa criar novas listas temporárias (`nova_linha`) para reconstruir a estrutura após a modificação dos dados[cite: 3, 4]. O domínio de **Loops Aninhados** é essencial para evitar que dados sejam processados no nível hierárquico errado[cite: 3, 5].
 
 ---
-[Voltar ao perfil](https://github.com/seu-usuario)
+[Voltar ao perfil](https://github.com/WillV-Code)
