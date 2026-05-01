@@ -34,4 +34,4 @@ A transição da observação comum para a lógica física segue três pilares[c
 A maior lição desta engenharia é que a vida deixa de ser um evento caótico e passa a parecer um projeto que pode ser organizado, testado e melhorado[cite: 8]. O desafio não está na complexidade do problema em si, mas em como simplificá-lo em partes menores para que a lógica possa encontrar o caminho mais eficiente para a "saída"[cite: 8].
 
 ---
-[Voltar ao perfil](https://github.com/seu-usuario)
+[Voltar ao perfil](https://github.com/WillV-Code)
