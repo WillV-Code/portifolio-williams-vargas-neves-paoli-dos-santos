@@ -1,0 +1,7 @@
+Questões de Fechamento
+
+Qual foi o maior desafio logístico encontrado ao tentar traduzir o problema do mundo real para uma estrutura de decisão binária (se/senão)?
+Acredito que foi entender o que cada função realmente queria dizer e como isso traduzia quando estruturado em decisão binária.
+
+Com base no Teste de Mesa (Cenário C), qual modificação seria necessária para tornar seu algoritmo mais resiliente a falhas humanas ou de sensores?
+Criar failsafes onde o sistema possa tentar corrigir o erro, rodando o código várias vezes até que encontre um resultado aproximado ou haja uma alternativa para informar sobre o erro.
