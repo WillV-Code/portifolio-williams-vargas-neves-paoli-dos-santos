@@ -49,6 +49,11 @@ Atualmente cursando o 1º semestre de Ciência da Computação na Universidade C
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Algoritmo de Auditoria de dados** | Um programa que analisa a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](./projeto-alogirtmo-de-auditoria-de-dados/auditoria-de-dados.py) |
+
+#### 🗃️ Programação de Computadores
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Engenharia de Soluções Lógicas** | Um programa que analisa a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](./projeto-alogirtmo-de-auditoria-de-dados/auditoria-de-dados.py) |
  
  
 ---
