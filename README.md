@@ -53,7 +53,7 @@ Atualmente cursando o 1º semestre de Ciência da Computação na Universidade C
 #### 🗃️ Programação de Computadores
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Engenharia de Soluções Lógicas** | Uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica. | [Ver Projeto](./projeto-engenharia-de-solucoes-logicas/part3.txt) (./projeto-engenharia-de-solucoes-logicas/part2.jpg)
+| **Engenharia de Soluções Lógicas** | Uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica. | [Parte 1](./projeto-engenharia-de-solucoes-logicas/part1.jpg) [Parte 2](./projeto-engenharia-de-solucoes-logicas/part2.jpg) [Parte 3](./projeto-engenharia-de-solucoes-logicas/part3.txt) |
  
  
 ---
