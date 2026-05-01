@@ -46,4 +46,4 @@ Diferente do pseudocódigo estático, em Python utilizamos:
 O maior desafio nesta transição é o **Tratamento de Erros**. Enquanto no papel a lógica aceita "qualquer dado", em Python o desenvolvedor deve prever entradas inválidas (como letras onde deveriam estar números). Para versões futuras, planeja-se a implementação de blocos `try/except` para tornar o sistema à prova de falhas.
 
 ---
-[Voltar ao perfil](https://github.com/seu-usuario)
+[Voltar ao perfil](https://github.com/WillV-Code)
