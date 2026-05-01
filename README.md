@@ -63,7 +63,7 @@ Atualmente cursando o 1º semestre de Ciência da Computação na Universidade C
 #### 🗃️ Programação de Computadores
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Traduzindo Lógica para Python** | Tradução de Pseudocódigo para Python | [Ver Projeto](./projeto-algoritmo-de-auditoria-de-dados/auditoria-de-dados.py) |
+| **Traduzindo Lógica para Python** | Tradução de Pseudocódigo para Python | [Ver projeto](./projeto-pseudo-python/pseudopython.py) [Q&A](./projeto-pseudo-python/pseudopython.txt) |
  
 ---
  
