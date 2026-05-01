@@ -23,4 +23,4 @@ Desenvolvido para facilitar a auditoria manual, o sistema detecta valores atípi
 4. Execute o notebook no Google Colab ou Jupyter localmente.
 
 ---
-[Voltar ao perfil](https://github.com/seu-usuario)
+[Voltar ao perfil](https://github.com/WillV-Code)
