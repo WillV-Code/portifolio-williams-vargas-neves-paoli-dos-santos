@@ -54,6 +54,11 @@ Atualmente cursando o 1º semestre de Ciência da Computação na Universidade C
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Engenharia de Soluções Lógicas** | Uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica. | [Parte 1](./projeto-engenharia-de-solucoes-logicas/part1.jpg) [Parte 2](./projeto-engenharia-de-solucoes-logicas/part2.jpg) [Parte 3](./projeto-engenharia-de-solucoes-logicas/part3.txt) |
+
+#### 🗃️ Programação de Computadores
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Modularização** | Um algoritmo que lê um valor de compra e o valor pago, calcula o troco total, e determina o menor número possível de notas (100, 50, 10, 5 e 1) para devolver ao cliente. | [Parte 1](./projeto-engenharia-de-solucoes-logicas/part1.jpg) [Parte 2](./projeto-engenharia-de-solucoes-logicas/part2.jpg) [Parte 3](./projeto-engenharia-de-solucoes-logicas/part3.txt) |
  
  
 ---
