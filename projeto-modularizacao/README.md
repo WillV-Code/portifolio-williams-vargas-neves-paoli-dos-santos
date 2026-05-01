@@ -24,4 +24,4 @@ O fluxo segue a seguinte hierarquia de módulos conforme as imagens:
 Durante a concepção, o maior desafio foi a implementação da modularidade, garantindo que a função de decomposição atualizasse o saldo do troco corretamente a cada passo (reutilização de variáveis de retorno). Para futuras versões, planeja-se a inclusão de moedas (centavos) e a integração com métodos de pagamento digital.
 
 ---
-[Voltar ao perfil](https://github.com/seu-usuario)
+[Voltar ao perfil](https://github.com/WillV-Code)
