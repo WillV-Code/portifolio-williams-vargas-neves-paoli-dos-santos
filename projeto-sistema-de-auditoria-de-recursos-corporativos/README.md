@@ -28,7 +28,7 @@ Este projeto foi construído utilizando Python puro (Standard Library), com foco
 ### Passo a Passo
 1. Clone este repositório:
    ```bash
-   git clone [![https://github.com/WillV-Code/portfolio-williams-vargas-neves-paoli-dos-santos.git]](https://github.com/WillV-Code/portfolio-williams-vargas-neves-paoli-dos-santos.git)
+   git clone [https://github.com/WillV-Code/portfolio-williams-vargas-neves-paoli-dos-santos.git](https://github.com/WillV-Code/portfolio-williams-vargas-neves-paoli-dos-santos.git)
    ```
 2. Acesse a pasta do projeto:
    ```bash
