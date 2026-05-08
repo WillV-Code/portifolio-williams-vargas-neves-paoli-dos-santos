@@ -41,38 +41,40 @@ Atualmente cursando o 1º semestre de Ciência da Computação na Universidade C
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 
+Certo, consegue editar este agora?
+
 ### 📂 Portfólio de Projetos
  
-#### 🧪 Auditoria e Consistência de Dados
+#### 🗃️ Programação de Computadores
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Algoritmo de Auditoria de Dados** | Um programa que analisa a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. | ./projeto-algoritmo-de-auditoria-de-dados/auditoria-de-dados.py |
-| **Sistema de Auditoria de Recursos Corporativos** | Sistema backend em Python para cálculo e auditoria de orçamentos corporativos em estruturas hierárquicas complexas, utilizando recursão, decorators, *args e **kwargs, com suporte a conversão de câmbio e rastreabilidade de execução. | ./projeto-sistema-de-auditoria-de-recursos-corporativos |
+| **Algoritmo de Auditoria de dados** | Um programa que analisa a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](./projeto-algoritmo-de-auditoria-de-dados/auditoria-de-dados.py) |
 
-#### 🧩 Engenharia de Soluções e Raciocínio Lógico
+#### 🗃️ Programação de Computadores
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Engenharia de Soluções Lógicas** | Uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica. | ./projeto-engenharia-de-solucoes-logicas/part1.jpg ./projeto-engenharia-de-solucoes-logicas/part2.jpg ./projeto-engenharia-de-solucoes-logicas/part3.txt |
+| **Engenharia de Soluções Lógicas** | Uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica. | [Parte 1](./projeto-engenharia-de-solucoes-logicas/part1.jpg) [Parte 2](./projeto-engenharia-de-solucoes-logicas/part2.jpg) [Parte 3](./projeto-engenharia-de-solucoes-logicas/part3.txt) |
 
-#### 🧱 Modularização e Estruturação de Algoritmos
+#### 🗃️ Programação de Computadores
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Modularização** | Um algoritmo que lê um valor de compra e o valor pago, calcula o troco total, e determina o menor número possível de notas (100, 50, 10, 5 e 1) para devolver ao cliente. | ./projeto-modularizacao/modulos.jpg ./projeto-modularizacao/funcoes.jpg ./projeto-modularizacao/funcoes-2.jpg ./projeto-modularizacao/sistema-fluxo.jpg ./projeto-modularizacao/sistema-pseudo.jpg |
+| **Modularização** | Um algoritmo que lê um valor de compra e o valor pago, calcula o troco total, e determina o menor número possível de notas (100, 50, 10, 5 e 1) para devolver ao cliente. | [Módulos](./projeto-modularizacao/modulos.jpg) [Funções](./projeto-modularizacao/funcoes.jpg) [Funções Parte 2](./projeto-modularizacao/funcoes-2.jpg) [Fluxograma](./projeto-modularizacao/sistema-fluxo.jpg) [Pseudocódigo](./projeto-modularizacao/sistema-pseudo.jpg) |
 
-#### 🔄 Tradução de Algoritmos e Pseudocódigo
+#### 🗃️ Programação de Computadores
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Traduzindo Lógica para Python** | Tradução de Pseudocódigo para Python | ./projeto-pseudo-python/pseudopython.py ./projeto-pseudo-python/pseudopython.txt |
+| **Traduzindo Lógica para Python** | Tradução de Pseudocódigo para Python | [Ver projeto](./projeto-pseudo-python/pseudopython.py) [Q&A](./projeto-pseudo-python/pseudopython.txt) |
 
-#### 🌍 Lógica Aplicada a Problemas do Mundo Real
+#### 🗃️ Programação de Computadores
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Engenharia de Contexto e Lógica Física** | Aplicar os conceitos de Listas, Estruturas de Repetição (for, while), Estruturas de Decisão (if/else, match-case), Funções e Operadores Complexos na resolução de problemas do mundo real, exigindo coleta de dados manual e mapeamento espacial. | ./projeto-eng-de-contexto-e-logica-fisica/engenharia-de-contexto-e-logica-fisica-1.py ./projeto-eng-de-contexto-e-logica-fisica/engenharia-de-contexto-e-logica-fisica-2.py ./projeto-eng-de-contexto-e-logica-fisica/engenharia-de-contexto-e-logica-fisica.txt |
+| **Engenharia de Contexto e Lógica Física** | Aplicar os conceitos de Listas, Estruturas de Repetição (for, while), Estruturas de Decisão (if/else, match-case), Funções e Operadores Complexos na resolução de problemas do mundo real, exigindo coleta de dados manual e mapeamento espacial. | [Clima](./projeto-eng-de-contexto-e-logica-fisica/engenharia-de-contexto-e-logica-fisica-1.py) [Navegação](./projeto-eng-de-contexto-e-logica-fisica/engenharia-de-contexto-e-logica-fisica-2.py) [Q&A](./projeto-eng-de-contexto-e-logica-fisica/engenharia-de-contexto-e-logica-fisica.txt) |
 
-#### 🎨 Manipulação de Estruturas de Dados
+#### 🗃️ Programação de Computadores
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Desenhando Emojis com Dados** | Manipular listas, tuplas e dicionários usando loops aninhados para criar e modificar a "arte" de um emoji. | ./projeto-desenhando-emojis-com-dados/desenhando_emojis_com_dados-1.py ./projeto-desenhando-emojis-com-dados/desenhando_emojis_com_dados-2.py ./projeto-desenhando-emojis-com-dados/desenhando_emojis_com_dados-3.py |
+| **Desenhando Emojis com Dados** | Manipular listas, tuplas e dicionários usando loops aninhados para criar e modificar a "arte" de um emoji. | [Emoji](./projeto-desenhando-emojis-com-dados/desenhando_emojis_com_dados-1.py) [Biblioteca Músical](./projeto-desenhando-emojis-com-dados/desenhando_emojis_com_dados-2.py) [Receita](./projeto-desenhando-emojis-com-dados/desenhando_emojis_com_dados-3.py) |
 
 ---
 
+Só preciso que o nome em Programação de computadores em cada projeto seja mudado para algo que tem haver com o projeto em si.
