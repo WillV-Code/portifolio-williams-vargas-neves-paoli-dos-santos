@@ -36,7 +36,7 @@ Este projeto foi construído utilizando **Python puro (Standard Library)**, com 
 ### ▶️ Passo a Passo
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/SeuUsuario/seu-repositorio.git
+   git clone (https://github.com/WillV-Code/portfolio-williams-vargas-neves-paoli-dos-santos.git)
 
    ```
 2. Acesse a pasta do projeto:
@@ -50,13 +50,67 @@ Este projeto foi construído utilizando **Python puro (Standard Library)**, com 
  
 ## 🧠 Lógica e Estrutura do Código
 Breve explicação de como o código foi organizado:
-* `[Explique aqui em 1 ou 2 parágrafos como você pensou para construir a sua recursão e como o decorator foi acoplado no projeto]`.
-* **Dados:** Os dados simulados da empresa foram estruturados em... `[explique a estrutura do seu dicionário]`.
+* `A lógica do projeto foi construída a partir da necessidade de percorrer uma estrutura organizacional hierárquica de profundidade desconhecida, tornando a recursão a abordagem mais adequada.
+A função principal percorre cada nível da árvore de dados, somando apenas os valores finais (folhas), enquanto ignora dinamicamente departamentos informados pelo usuário.
+O decorator de auditoria foi acoplado à função de cálculo para registrar dados da execução, como argumentos recebidos e tempo total de processamento, seguindo o princípio de separação de responsabilidades, muito utilizado em projetos backend profissionais.`.
+* **Dados:** Os dados simulados da empresa foram estruturados em... `Os dados da empresa foram estruturados como um dicionário aninhado, onde cada chave representa um departamento ou subdepartamento, e os nós finais contêm os valores numéricos de orçamento.
+Empresa
+├── Matriz
+│   ├── TI
+│   │   ├── Infraestrutura
+│   │   │   ├── Servidores
+│   │   │   ├── Segurança
+│   │   │   │   ├── Firewall
+│   │   │   │   └── Monitoramento
+│   │   │   └── Redes
+│   │   ├── Desenvolvimento
+│   │   │   ├── Frontend
+│   │   │   ├── Backend
+│   │   │   ├── DevOps
+│   │   │   └── QA
+│   │   └── Suporte
+│   │       ├── HelpDesk
+│   │       └── Field Support
+│   ├── RH
+│   │   ├── Recrutamento
+│   │   ├── Treinamento
+│   │   ├── Cultura
+│   │   │   ├── Eventos
+│   │   │   └── Brindes
+│   │   └── Folha de Pagamento
+│   ├── Financeiro
+│   │   ├── Contabilidade
+│   │   ├── Planejamento
+│   │   └── Auditoria
+│   └── Jurídico
+│       ├── Contratos
+│       └── Compliance
+│
+├── Filial Brasil
+│   ├── Comercial
+│   │   ├── Vendas
+│   │   ├── Pós‑Venda
+│   │   └── Parcerias
+│   ├── Marketing
+│   │   ├── Mídias Digitais
+│   │   ├── Eventos
+│   │   └── Branding
+│   └── Operações
+│       ├── Logística
+│       └── Atendimento
+│
+└── Filial Europa
+    ├── TI
+    │   ├── Suporte Regional
+    │   └── Segurança
+    └── Comercial
+        ├── Vendas
+        └── Relações Internacionais`.
  
 ## 👤 Autor
  
 * **Williams Vargas Neves Paoli dos Santos** * LinkedIn: [Seu Link]
-* E-mail: [Seu E-mail]
+* E-mail: williamspaoli1@gmail.com
  
 ---
 *Projeto acadêmico com foco na aplicação prática de conceitos avançados da linguagem Python.*
