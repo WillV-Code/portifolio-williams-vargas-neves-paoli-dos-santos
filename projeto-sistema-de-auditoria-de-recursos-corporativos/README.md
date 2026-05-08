@@ -1,4 +1,3 @@
-
 # 🏢 Auditoria de Orçamentos Corporativos (Python)
  
 [![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
@@ -54,62 +53,10 @@ Breve explicação de como o código foi organizado:
 A função principal percorre cada nível da árvore de dados, somando apenas os valores finais (folhas), enquanto ignora dinamicamente departamentos informados pelo usuário.
 O decorator de auditoria foi acoplado à função de cálculo para registrar dados da execução, como argumentos recebidos e tempo total de processamento, seguindo o princípio de separação de responsabilidades, muito utilizado em projetos backend profissionais.
 * **Dados:** Os dados da empresa foram estruturados como um dicionário aninhado, onde cada chave representa um departamento ou subdepartamento, e os nós finais contêm os valores numéricos de orçamento.
-[Empresa
-├── Matriz
-│   ├── TI
-│   │   ├── Infraestrutura
-│   │   │   ├── Servidores
-│   │   │   ├── Segurança
-│   │   │   │   ├── Firewall
-│   │   │   │   └── Monitoramento
-│   │   │   └── Redes
-│   │   ├── Desenvolvimento
-│   │   │   ├── Frontend
-│   │   │   ├── Backend
-│   │   │   ├── DevOps
-│   │   │   └── QA
-│   │   └── Suporte
-│   │       ├── HelpDesk
-│   │       └── Field Support
-│   ├── RH
-│   │   ├── Recrutamento
-│   │   ├── Treinamento
-│   │   ├── Cultura
-│   │   │   ├── Eventos
-│   │   │   └── Brindes
-│   │   └── Folha de Pagamento
-│   ├── Financeiro
-│   │   ├── Contabilidade
-│   │   ├── Planejamento
-│   │   └── Auditoria
-│   └── Jurídico
-│       ├── Contratos
-│       └── Compliance
-│
-├── Filial Brasil
-│   ├── Comercial
-│   │   ├── Vendas
-│   │   ├── Pós‑Venda
-│   │   └── Parcerias
-│   ├── Marketing
-│   │   ├── Mídias Digitais
-│   │   ├── Eventos
-│   │   └── Branding
-│   └── Operações
-│       ├── Logística
-│       └── Atendimento
-│
-└── Filial Europa
-    ├── TI
-    │   ├── Suporte Regional
-    │   └── Segurança
-    └── Comercial
-        ├── Vendas
-        └── Relações Internacionais.]
  
 ## 👤 Autor
  
-* **Williams Vargas Neves Paoli dos Santos** * LinkedIn: [Seu Link]
+* **Williams Vargas Neves Paoli dos Santos** * LinkedIn: <https://www.linkedin.com/in/williams-paoli-98315b407>
 * E-mail: williamspaoli1@gmail.com
  
 ---
