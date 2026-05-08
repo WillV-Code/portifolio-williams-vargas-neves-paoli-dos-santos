@@ -50,10 +50,10 @@ Este projeto foi construído utilizando **Python puro (Standard Library)**, com 
  
 ## 🧠 Lógica e Estrutura do Código
 Breve explicação de como o código foi organizado:
-* `A lógica do projeto foi construída a partir da necessidade de percorrer uma estrutura organizacional hierárquica de profundidade desconhecida, tornando a recursão a abordagem mais adequada.
+* A lógica do projeto foi construída a partir da necessidade de percorrer uma estrutura organizacional hierárquica de profundidade desconhecida, tornando a recursão a abordagem mais adequada.
 A função principal percorre cada nível da árvore de dados, somando apenas os valores finais (folhas), enquanto ignora dinamicamente departamentos informados pelo usuário.
-O decorator de auditoria foi acoplado à função de cálculo para registrar dados da execução, como argumentos recebidos e tempo total de processamento, seguindo o princípio de separação de responsabilidades, muito utilizado em projetos backend profissionais.`.
-* **Dados:** Os dados simulados da empresa foram estruturados em... `Os dados da empresa foram estruturados como um dicionário aninhado, onde cada chave representa um departamento ou subdepartamento, e os nós finais contêm os valores numéricos de orçamento.
+O decorator de auditoria foi acoplado à função de cálculo para registrar dados da execução, como argumentos recebidos e tempo total de processamento, seguindo o princípio de separação de responsabilidades, muito utilizado em projetos backend profissionais.
+* **Dados:** Os dados da empresa foram estruturados como um dicionário aninhado, onde cada chave representa um departamento ou subdepartamento, e os nós finais contêm os valores numéricos de orçamento.
 Empresa
 ├── Matriz
 │   ├── TI
@@ -105,7 +105,7 @@ Empresa
     │   └── Segurança
     └── Comercial
         ├── Vendas
-        └── Relações Internacionais`.
+        └── Relações Internacionais.
  
 ## 👤 Autor
  
