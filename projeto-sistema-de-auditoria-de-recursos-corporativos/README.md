@@ -35,16 +35,16 @@ Este projeto foi construído utilizando **Python puro (Standard Library)**, com 
 ### ▶️ Passo a Passo
 1. Clone este repositório:
    ```bash
-   git clone (https://github.com/WillV-Code/portfolio-williams-vargas-neves-paoli-dos-santos.git)
+   git clone https://github.com/WillV-Code/portfolio-williams-vargas-neves-paoli-dos-santos.git
 
    ```
 2. Acesse a pasta do projeto:
    ```bash
-   cd seu-repositorio
+   cd portfolio-williams-vargas-neves-paoli-dos-santos
    ```
 3. Execute o script principal:
    ```bash
-   python main.py
+   python sistema_auditoria.py
    ```
  
 ## 🧠 Lógica e Estrutura do Código
