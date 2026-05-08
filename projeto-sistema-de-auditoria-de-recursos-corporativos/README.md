@@ -54,7 +54,7 @@ Breve explicação de como o código foi organizado:
 A função principal percorre cada nível da árvore de dados, somando apenas os valores finais (folhas), enquanto ignora dinamicamente departamentos informados pelo usuário.
 O decorator de auditoria foi acoplado à função de cálculo para registrar dados da execução, como argumentos recebidos e tempo total de processamento, seguindo o princípio de separação de responsabilidades, muito utilizado em projetos backend profissionais.
 * **Dados:** Os dados da empresa foram estruturados como um dicionário aninhado, onde cada chave representa um departamento ou subdepartamento, e os nós finais contêm os valores numéricos de orçamento.
-Empresa
+[Empresa
 ├── Matriz
 │   ├── TI
 │   │   ├── Infraestrutura
@@ -105,7 +105,7 @@ Empresa
     │   └── Segurança
     └── Comercial
         ├── Vendas
-        └── Relações Internacionais.
+        └── Relações Internacionais.]
  
 ## 👤 Autor
  
