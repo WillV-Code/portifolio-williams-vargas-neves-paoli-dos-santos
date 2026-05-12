@@ -81,5 +81,3 @@ Certo, consegue editar este agora?
 | **Sistema de Auditoria de Recursos Corporativos** | Sistema backend desenvolvido em Python para cálculo e auditoria de orçamentos corporativos em estruturas hierárquicas complexas. O projeto utiliza recursão para navegação em árvores de dados, decorators para auditoria de execução, empacotamento de argumentos (*args e **kwargs) para regras dinâmicas de negócio, além de suporte à conversão de câmbio e rastreabilidade do processamento. | [Sistema](./projeto-sistema-de-auditoria-de-recursos-corporativos/sistema_auditoria.py) |
 
 ---
-
-Só preciso que o nome em Programação de computadores em cada projeto seja mudado para algo que tem haver com o projeto em si.
