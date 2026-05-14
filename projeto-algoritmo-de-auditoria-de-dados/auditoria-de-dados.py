@@ -7,6 +7,8 @@ Original file is located at
     https://colab.research.google.com/drive/1TLXLxsmZsybnxCO4y4ZUInSY3Rvpqr2Y
 """
 
+# Testado tanto com Colab quanto com PyCharm!
+
 #Limite de segurança definido
 limite_seguranca = 10000
 #Função para analisar as vendas
