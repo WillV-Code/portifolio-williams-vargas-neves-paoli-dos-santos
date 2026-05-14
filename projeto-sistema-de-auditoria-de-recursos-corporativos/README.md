@@ -56,7 +56,7 @@ O decorator de auditoria foi acoplado à função de cálculo para registrar dad
  
 ## 👤 Autor
  
-* **Williams Vargas Neves Paoli dos Santos** * LinkedIn: <https://www.linkedin.com/in/williams-paoli-98315b407>
+* **Williams Vargas Neves Paoli dos Santos**  **LinkedIn: <https://www.linkedin.com/in/williams-paoli-98315b407>**
 * E-mail: williamspaoli1@gmail.com
  
 ---
