@@ -45,7 +45,6 @@ Atualmente cursando o 1º semestre de Ciência da Computação na Universidade C
 
 ### 📂 Portfólio de Projetos
  
-#### 🧪 Auditoria e Consistência de Dados
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Algoritmo de Auditoria de dados** | Um programa que analisa a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](./projeto-algoritmo-de-auditoria-de-dados/auditoria-de-dados.py) |
