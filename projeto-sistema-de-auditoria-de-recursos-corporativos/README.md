@@ -40,7 +40,7 @@ Este projeto foi construído utilizando **Python puro (Standard Library)**, com 
    ```
 2. Acesse a pasta do projeto:
    ```bash
-   cd portfolio-williams-vargas-neves-paoli-dos-santos
+   cd projeto-sistema-de-auditoria-de-recursos-corporativos
    ```
 3. Execute o script principal:
    ```bash
