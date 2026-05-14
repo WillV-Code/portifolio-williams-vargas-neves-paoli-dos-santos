@@ -41,7 +41,7 @@ Atualmente cursando o 1º semestre de Ciência da Computação na Universidade C
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 
-Certo, consegue editar este agora?
+
 
 ### 📂 Portfólio de Projetos
  
