@@ -17,6 +17,8 @@ Possuo experiência com o sistema operacional Windows, desde a versão 7 até a 
 Também tenho familiaridade com diversos modelos de Inteligência Artificial, como ChatGPT, Microsoft Copilot (também incluido no Github), Claude AI, e Gemini, que uso como apoio para aprendizado, criação de ideias e desenvolvimento de projetos.
 Possuo conhecimentos básicos na linguagem de programação Python, que venho desenvolvendo aos poucos durante meus estudos. Além disso, já tive contato com JavaScript por meio da plataforma p5.js, onde pude entender na prática alguns conceitos de programação e lógica, criando pequenos projetos e experimentos.
 
+Minha principal ferramenta de programação é o Visual Studio Code, que utilizo na maioria dos meus projetos por ser leve, prático e bastante versátil. No entanto, quando trabalho com a linguagem Python, costumo utilizar o PyCharm, pois ele oferece recursos mais específicos que facilitam o desenvolvimento e a organização do código.
+
 Também possuo conhecimentos básicos sobre Interface do Usuário (UI) utilizando a ferramenta Figma. Por meio dela, já criei alguns protótipos simples, porém funcionais, o que me ajudou a entender melhor como planejar a aparência e a organização de um aplicativo ou site de forma prática.
  
 * **Habilidades Técnicas:** Python.
