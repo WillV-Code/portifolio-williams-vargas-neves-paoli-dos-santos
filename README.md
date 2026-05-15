@@ -11,7 +11,11 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o 1º semestre de Ciência da Computação na Universidade Cidade de São Paulo (UNICID). Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Desenvolvimento de Aplicativos/Jogos Digitais.
+Atualmente estou cursando o 1º semestre de Ciência da Computação na Universidade Cidade de São Paulo (UNICID). Tenho grande interesse em utilizar a tecnologia para resolver problemas do dia a dia e estou focado em aprender e desenvolver aplicativos, sites e também jogos digitais.
+Possuo experiência com o sistema operacional Windows, desde a versão 7 até a 11, além de conhecimentos no uso de ferramentas da Microsoft, como PowerPoint, Excel e Word, que utilizo com frequência para estudos e organização de tarefas.
+Também tenho familiaridade com diversos modelos de Inteligência Artificial, como ChatGPT, Microsoft Copilot (também incluido no Github), Claude AI, e Gemini, que uso como apoio para aprendizado, criação de ideias e desenvolvimento de projetos.
+Possuo conhecimentos básicos na linguagem de programação Python, que venho desenvolvendo aos poucos durante meus estudos. Além disso, já tive contato com JavaScript por meio da plataforma p5.js, onde pude entender na prática alguns conceitos de programação e lógica, criando pequenos projetos e experimentos.
+Também possuo conhecimentos básicos sobre Interface do Usuário (UI) utilizando a ferramenta Figma. Por meio dela, já criei alguns protótipos simples, porém funcionais, o que me ajudou a entender melhor como planejar a aparência e a organização de um aplicativo ou site de forma prática.
  
 * **Habilidades Técnicas:** Python.
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
